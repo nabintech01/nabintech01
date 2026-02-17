@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am a self build python developer, , My aim is to be a Ethical hacker. <br>I have my own hosting company ( Dharahara Host )  that I opened as<br>my side hustle.  I just love learning new things and building some useful <br>tools.
-
+🎓 CS Student @ Algoma University
+💻 Java • Python
+📊 Data structures & algorithms enthusiast
+🚀 Exploring software development
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
